@@ -58,11 +58,15 @@ To analyze sales performance, identify trends, and evaluate product category per
 
 ## 4. Results & Impact  
 - The analysis provided actionable insights into sales performance.  
-- Visualizations helped in quickly identifying trends and top performers.  
+- Visualizations helped quickly identify trends and top performers.  
 
 ## 5. Visual Aids  
-- **Monthly Sales Trend:** Bar chart showing sales over time.  
-- **Sales by Product Category:** Horizontal bar chart ranking categories by total sales.  
+- **Monthly Sales Trend:** Bar chart showing sales over time.
+-![Monthly Sales Trend](https://github.com/user-attachments/assets/c1097eeb-4f0b-4276-81f4-e242a5898b4a)
+
+- **Sales by Product Category:** Horizontal bar chart ranking categories by total sales.
+-![Sales by Product Category](https://github.com/user-attachments/assets/125a98d7-7613-453a-acd3-a3373b7e342b)
+
 
 ## 6. Lessons Learned  
 - Proper data encoding is crucial when handling datasets with special characters.  
