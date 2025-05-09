@@ -15,7 +15,6 @@ To analyze sales performance, identify trends, and evaluate product category per
 - Data-driven insights for business decision-making  
 
 ## 2. Key Components  
-
 ### A. Data Collection  
 **Sources:**  
 - Sales data extracted from a CSV file (`sales_data_sample.csv`)  
@@ -74,7 +73,7 @@ To analyze sales performance, identify trends, and evaluate product category per
 - Regular analysis of sales data can help in proactive decision-making.
 
 
-Here’s a structured breakdown of the provided Python code for sales data analysis:
+**Here’s a structured breakdown of the provided Python code for sales data analysis:**
 
 ### **1. Importing Libraries**
 ![Importing Libraries](https://github.com/user-attachments/assets/16cbcb30-4078-45c1-a6d5-c5bd84c4ecc1)
