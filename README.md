@@ -39,12 +39,12 @@ To analyze sales performance, identify trends, and evaluate product category per
 - Python (Pandas for data manipulation, Matplotlib & Seaborn for visualization)  
 
 ### C. Key Findings  
-- The dataset covers sales from [start date] to [end date].  
-- Total sales amounted to [total sales value].  
-- The average order value was [average order value].  
-- [Number] unique customers were recorded in the dataset.  
-- Monthly sales trends showed [increasing/declining/stable] performance.  
-- The top-performing product category was [category name].  
+- The dataset covers sales from January 29, 2003 to May 31, 2005.  
+- Total sales amounted to $2,261,756.77.  
+- The average order value was $3,842.61.  
+- 92 unique customers were recorded in the dataset.  
+- Monthly sales trends showed stable (the data shows consistent sales activity without a clear upward or downward trend over time)  
+- The top-performing product category was Classic Cars.  
 
 ### D. Recommendations  
 - Focus on promoting high-performing product categories.  
